@@ -1,0 +1,13 @@
+account,type,debit,credit
+# SYNTHETIC TEST FIXTURE for a harness test - not real data.
+Cash,asset,1000.10,
+Accounts receivable,asset,2500.20,
+Supplies,asset,0.70,
+Equipment,asset,12000.10,
+Rent expense,expense,1500.20,
+Utilities expense,expense,310.70,
+Salaries expense,expense,8200.10,
+Accounts payable,liability,,1800.30
+Notes payable,liability,,5000.00
+Common stock,equity,,10000.00
+Service revenue,revenue,,8711.80

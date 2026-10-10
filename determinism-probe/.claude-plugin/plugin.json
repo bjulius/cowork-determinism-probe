@@ -1,0 +1,8 @@
+{
+  "name": "determinism-probe",
+  "version": "0.1.0",
+  "description": "Test plugin that checks whether a harness actually runs command hooks, script-backed skills and subagent tool allow-lists.",
+  "author": {
+    "name": "Brian Julius"
+  }
+}
